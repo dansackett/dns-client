@@ -1,4 +1,4 @@
-module github.com/dansackett/dns
+module github.com/dansackett/dns-client
 
 go 1.12
 
